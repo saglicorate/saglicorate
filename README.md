@@ -89,14 +89,6 @@ Obrigado por visitar meu perfil!
 />
 <img 
     align="left" 
-    alt="Cybersecurity" 
-    title="Cybersecurity"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/ios-filled/50/000000/security-shield.png" 
-/>
-<img 
-    align="left" 
     alt="Django" 
     title="Django"
     width="30px" 
